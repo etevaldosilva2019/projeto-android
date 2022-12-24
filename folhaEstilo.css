@@ -1,5 +1,10 @@
-h1, h2{
+h1{
     background-color: brown;
     text-align: center;
+    color: white;
+}
+h2{
+    background-color: blue;
+    text-align: right;
     color: white;
 }
